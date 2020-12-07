@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://devchallenges-my-gallery-dist.vercel.app/">
       Demo
     </a>
     <!-- <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](screenshot.png)
+[![screenshot](screenshot.png)](https://devchallenges-my-gallery-dist.vercel.app/)
 
 Working with css grid is always fun ! It is a small project, but took me about 2 hours, because I had fun with gulp...
 
@@ -44,7 +44,7 @@ Working with css grid is always fun ! It is a small project, but took me about 2
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-[Gulp](https://gulpjs.com/), which I used to compile sass, prefix and minify CSS, generate sourcemaps and cache busting postfixes (which is really cool) and also minify the images. I now have a basic gulpfile that I can reuse for my next projects.
+- [Gulp](https://gulpjs.com/), which I used to compile sass, prefix and minify CSS, generate sourcemaps and cache busting postfixes (which is really cool) and also minify the images. I now have a basic gulpfile that I can reuse for my next projects.
 
 ## Features
 
