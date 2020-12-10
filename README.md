@@ -11,10 +11,10 @@
     <a href="https://devchallenges-my-gallery-dist.vercel.app/">
       Demo
     </a>
-    <!-- <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <span> | </span>
+    <a href="https://github.com/antoineterny/devchallenges-my-gallery-dist">
       Solution
-    </a> -->
+    </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
       Challenge
@@ -38,7 +38,7 @@
 
 [![screenshot](screenshot.png)](https://devchallenges-my-gallery-dist.vercel.app/)
 
-Working with css grid is always fun ! It is a small project, but took me about 2 hours, because I had fun with gulp...
+Working with css grid is always fun ! It is a small project, but took me about 2 hours, I had fun with gulp...
 
 ### Built With
 
@@ -52,13 +52,11 @@ Working with css grid is always fun ! It is a small project, but took me about 2
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories.
 
-
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [MDN web docs](https://developer.mozilla.org/), as always, to get information about filter: drop-shadow() and object-fit CSS properties.
-
 
 ## Contact
 
